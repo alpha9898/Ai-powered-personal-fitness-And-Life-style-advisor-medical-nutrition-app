@@ -1,0 +1,2 @@
+E:/FitApp/FitApp/android/app/.cxx/Debug/4z5k4t4d/x86/CMakeFiles/edit_cache.dir
+E:/FitApp/FitApp/android/app/.cxx/Debug/4z5k4t4d/x86/CMakeFiles/rebuild_cache.dir

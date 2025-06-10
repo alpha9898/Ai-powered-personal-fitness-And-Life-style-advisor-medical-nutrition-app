@@ -1,0 +1,23 @@
+.bg-gradient {
+  background: linear-gradient(to bottom, #baaad8, #4c9df1);
+  height: 100vh;
+  position: relative;
+}
+body {
+  background: linear-gradient(to bottom, #baaad8, #5a8dee);
+  height: 100vh;
+  margin: 0;
+}
+
+.custom-navbar {
+  background: linear-gradient(to bottom, #baaad8, #5a8dee) !important; 
+}
+
+.navbar-brand, .nav-link {
+  color: white !important; 
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #ddd !important; /* تأثير عند تمرير الماوس */
+}

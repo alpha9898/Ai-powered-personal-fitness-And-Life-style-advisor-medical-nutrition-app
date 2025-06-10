@@ -1,0 +1,40 @@
+.custom-navbar {
+  background: linear-gradient(to right, #baaad8, #4c9df1);
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.nav-link:hover {
+  color: #ddd !important;
+}
+
+.nav-link.active {
+  border-bottom: 2px solid white;
+}
+
+/* للشاشات الصغيرة */
+@media (max-width: 768px) {
+  .nav-link {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .navbar-brand {
+    font-size: 1.2rem;
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809260903375",
+    "project_id": "fitbodyapp-82cd4",
+    "storage_bucket": "fitbodyapp-82cd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809260903375:android:3d5c2d5878f050c1fdc0ba",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpU1UaTRXCuTOYsUjdskIUUmmaOveO-8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
