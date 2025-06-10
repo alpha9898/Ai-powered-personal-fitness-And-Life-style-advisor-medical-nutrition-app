@@ -311,15 +311,9 @@ gunicorn -w 4 -b 0.0.0.0:5000 app:app
 |---------|----------|--------|
 | 🔥 Calorie Calculations | 92% | 95% |
 | 🏋️ Exercise Detection | 88% | 90% |
-| 📈 Progress Predictions | 82% | 85% |
+| 📈 Progress Predictions | 82% | 92% |
 | 🍎 Nutrition Data | 97% | 98% |
 
-### 📈 Scalability
-
-- **👥 Concurrent Users**: 10,000
-- **📊 Daily Active Users**: 50,000
-- **⚡ Peak Load**: 2,000 requests/second
-- **💾 Data Storage**: Supports 500K+ users
 
 ## 🧪 Testing
 
