@@ -366,7 +366,6 @@ cd Website && npm test
 
 ### 🎥 Demo Resources
 
-- **[Live Demo](https://your-demo-link.com)** - Try the app online
 - **[Video Demo](Video/)** - Watch the app in action
 - **[Presentation](Presentation/)** - Project presentation slides
 
@@ -388,15 +387,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Write tests for new features
 - Update documentation as needed
 - Use conventional commit messages
-
-## 👨‍💻 Author
-
-**Amar Yasser** - *Lead Developer & Project Creator*
-
-- 🌐 **Portfolio**: [amareyasser.com](https://amareyasser.com)
-- 💼 **LinkedIn**: [linkedin.com/in/amareyasser](https://linkedin.com/in/amareyasser)
-- 📧 **Email**: amar.yasser@example.com
-- 🐙 **GitHub**: [@amareyasser](https://github.com/amareyasser)
 
 ### 🎓 Project Context
 
@@ -438,6 +428,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/Graduation_Project_final?style=social)](https://github.com/yourusername/Graduation_Project_final/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/Graduation_Project_final?style=social)](https://github.com/yourusername/Graduation_Project_final/network/members)
 
-**Made with ❤️ by [Amar Yasser](https://github.com/amareyasser)**
+**Made with ❤️ by [Amar Yasser][Ahmed Ehab][Ahmed Aymen][Nada Yasser][Rana Abdelall][Mohamed Tarek][Fares Dawoud]**
 
 </div>
