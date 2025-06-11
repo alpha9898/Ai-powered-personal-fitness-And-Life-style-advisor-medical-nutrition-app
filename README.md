@@ -22,6 +22,7 @@
 - [🏗️ Architecture](#️-architecture)
 - [🚀 Technologies Used](#-technologies-used)
 - [📱 Screenshots](#-screenshots)
+- [📲 Download & Install](#-download--install)
 - [⚡ Quick Start](#-quick-start)
 - [🔧 Installation](#-installation)
 - [📊 Performance Metrics](#-performance-metrics)
@@ -133,6 +134,8 @@ Graduation_Project_final/
 │   │   ├── app.py              # Flask application
 │   │   └── *.keras             # Trained models
 │   └── RNN.ipynb               # Model training notebook
+├── 📦 APK/                      # Release Builds
+│   └── app-release.apk         # Production-ready Android APK (59MB)
 ├── 📚 Documentation/            # Project documentation
 ├── 🎥 Video/                    # Demo videos
 ├── 📄 Research Papers/          # Academic research
@@ -193,6 +196,22 @@ Graduation_Project_final/
 ![Web App](Website/docs/screenshots/website.png)
 
 </div>
+
+## 📲 Download & Install
+
+### 🚀 Ready-to-Use APK
+
+**Want to try the app immediately?** Download the pre-built APK:
+
+📦 **[Download Latest APK (v1.0.0)](APK/app-release.apk)** - 59MB
+
+#### Installation Instructions:
+1. **Download** the APK file from the link above
+2. **Enable** "Install from Unknown Sources" in your Android settings
+3. **Install** the APK and launch the app
+4. **Enjoy** your AI-powered fitness journey!
+
+> **Note**: This is a release build optimized for performance. The APK includes all necessary dependencies and is ready for production use.
 
 ## ⚡ Quick Start
 
@@ -268,6 +287,8 @@ python app.py
    flutter build ios --release  # iOS
    flutter build web --release  # Web
    ```
+
+> **💡 Pro Tip**: The pre-built APK in the `APK/` folder is already optimized and ready for installation. You can skip the build process and directly install it on your Android device!
 
 ### 🌐 Web App Deployment
 
@@ -406,6 +427,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
+- **[📦 Download APK](APK/app-release.apk)** - Ready-to-install Android application (59MB)
 - **[📚 Documentation](Documentation/)** - Complete project documentation
 - **[🎥 Demo Video](Video/)** - Watch the application demo
 - **[📊 Research Papers](Research%20Papers/)** - Academic research backing
